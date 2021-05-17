@@ -1,4 +1,4 @@
-# Machine Learning Introdutory Classes #
+# Machine Learning Introdutory Examples #
  - CESAR School - Machine Learning
 
 ### What is this repository for? ###
